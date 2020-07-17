@@ -1,0 +1,159 @@
+.h6a{
+	text-align: center;
+	font-weight: bold;
+	font-size: 2em;
+	padding: 20px 50px;
+}
+
+
+
+.boxmodel{
+	border: 2px solid rgba(214, 209, 209, 0.05);
+	padding: 40px 20px;
+}
+
+
+
+img{
+	float: left;
+	padding: 10px 10px;
+
+}
+
+p{
+	line-height: 45px;
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #000000;
+	font-size: 20px;
+	font-weight: 20px;
+}
+
+.h4a{
+	padding: 10px 30px;
+}
+
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+
+/* first division ends here*/
+
+.model1{
+	border: 2px solid rgba(214, 209, 209, 0.05);
+	padding: 40px 20px;
+}
+
+
+
+.img2{
+	float: right;
+	 height:250px;
+	 width:300px;
+	}
+	
+
+.p1{
+	line-height: 25px;
+}
+
+.h3a{
+	font-family: 'Roboto Slab', serif;
+
+}
+
+.p2{
+	line-height: 20px;
+}
+
+.h3ab{
+	font-size: 20px;
+	font-weight: 20px;
+}
+
+.p3{
+	line-height: 20px;
+	font-size: 20px;
+	font-weight: 15px;
+}
+
+
+.img3{
+	float: left;
+	 height:200px;
+	 width:250px;
+	}
+
+.p4{
+	line-height: 50px;
+	font-size: 20px;
+	font-weight: 20px;
+
+}
+
+
+ul{
+	padding: 40px 20px;
+    font-weight: bold;
+}
+
+.h2a{
+	font-size: 20px;
+}
+
+.p5{
+	line-height: 25px;
+	font-size: 20px;
+	font-weight: 20px;
+}
+
+.img4{
+	float: left;
+	 height:200px;
+	 width:240px;
+	}
+
+.p6{
+	line-height: 50px;
+	font-size: 20px;
+	font-weight: 20px;	
+}
+
+.ula{
+	padding: 40px 20px;
+    font-weight: bold;
+}
+
+.h2aa{
+	font-size: 20px;
+}
+
+.img5{
+	float: left;
+	 height:200px;
+	 width:240px;
+	}
+
+.p7{
+	line-height: 24px;
+	font-size: 20px;
+	font-weight: 20px;	
+}
+
+.h2aaa{
+	font-size: 20px;
+}
+
+.img6{
+	float: left;
+	 height:200px;
+	 width:240px;
+	}
+
+.p8{
+	line-height: 24px;
+	font-size: 20px;
+	font-weight: 20px;	
+}
